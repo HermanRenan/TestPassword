@@ -1,0 +1,20 @@
+﻿body {
+    background-color: #23238729;
+}
+
+main {
+    max-width: 500px;    
+    margin: 0 auto;
+    display: grid;
+    column-gap: 10px;
+    row-gap: 10px;        
+}
+
+    main section{
+        margin-top:10%
+    }
+
+form span{
+    color:red;
+    font-style:italic;
+}

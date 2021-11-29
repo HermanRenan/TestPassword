@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31911.196
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Senhas", "Senhas\Senhas.csproj", "{649DEA14-8B59-4DEF-82BE-A189C0552AA8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ControllerTests", "ControllerTests\ControllerTests.csproj", "{A25E1330-9E27-4A29-8A8A-FD5CA7A0C3F5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{649DEA14-8B59-4DEF-82BE-A189C0552AA8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{649DEA14-8B59-4DEF-82BE-A189C0552AA8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{649DEA14-8B59-4DEF-82BE-A189C0552AA8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{649DEA14-8B59-4DEF-82BE-A189C0552AA8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A25E1330-9E27-4A29-8A8A-FD5CA7A0C3F5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A25E1330-9E27-4A29-8A8A-FD5CA7A0C3F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A25E1330-9E27-4A29-8A8A-FD5CA7A0C3F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A25E1330-9E27-4A29-8A8A-FD5CA7A0C3F5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3D6CFA32-770D-4656-9A45-5EE1A93987B2}
+	EndGlobalSection
+EndGlobal
